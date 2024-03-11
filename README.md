@@ -9,7 +9,7 @@ requests + beautifulsoup + pyecharts
 * 京东奢侈品销量
   
 
-### 可视化结果为repo内.html文件
+### 可视化结果（部分）为repo内.html文件
 
 * 源代码：80 RMB
 * 源代码+报告（开题报告2页 + 总结18页）：150 RMB
